@@ -1,0 +1,48 @@
+Como cliente, quiero visualizar toda la
+información acerca de un producto para
+poder decidirme si lo compro.
+
+Como cliente, quiero iniciar o cerrar sesión,
+para poder acceder o salir del sistema
+respectivamente.
+
+Como cliente, quiero ver mi perfil para poder
+comprobar que mis datos sean correctos.
+
+Como cliente, quiero ver las compras que he
+realizado en la aplicación para poder saber
+qué productos suelo comprar más y cuánto
+dinero llevo gastado
+
+Como vendedor, quiero poder crear una
+cuenta para poder vender mis productos
+
+Como vendedor, quiero iniciar o cerrar
+sesión, para poder acceder o salir del sistema
+respectivamente.
+
+Como vendedor, quiero añadir productos
+para poder venderlos.
+
+Como vendedor, quiero visualizar todos los
+productos que tengo en venta para poder ver
+que no tienen ningún fallo.
+
+Como administrador, quiero modificar los
+datos de los clientes o proveedores si han
+realizado algo inadecuado o violento para
+poder tener mi web totalmente controlada y
+segura.
+
+Como administrador, quiero ver que
+vendedores y usuarios usan mi aplicación
+para poder tener información acerca de ellos.
+
+Como administrador, quiero validar los
+productos antes de que se pongan en venta
+para poder comprobar que todos los datos
+son correctos.
+
+Como administrador, quiero iniciar o cerrar
+sesión, para poder acceder o salir del sistema
+respectivamente.
